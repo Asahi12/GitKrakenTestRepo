@@ -9,6 +9,10 @@ namespace test
             Console.WriteLine("Hello");
             
             Console.WriteLine("追加したぞ");
+            
         }
     }
 }
+
+
+///aaaaaaaaa
