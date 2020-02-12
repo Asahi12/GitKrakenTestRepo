@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\masahi\\Documents\\GitKraken\\GitKrakenTestRepo\\test\\test.csproj",
+      "projectUniqueName": "C:\\work\\test\\test.csproj",
       "projectName": "test",
-      "projectPath": "C:\\Users\\masahi\\Documents\\GitKraken\\GitKrakenTestRepo\\test\\test.csproj",
+      "projectPath": "C:\\work\\test\\test.csproj",
       "packagesPath": "C:\\Users\\masahi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\masahi\\Documents\\GitKraken\\GitKrakenTestRepo\\test\\obj\\",
+      "outputPath": "C:\\work\\test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
