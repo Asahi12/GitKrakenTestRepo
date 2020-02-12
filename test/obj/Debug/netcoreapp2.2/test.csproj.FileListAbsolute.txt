@@ -1,0 +1,11 @@
+C:\Users\masahi\Documents\GitKraken\GitKrakenTestRepo\test\bin\Debug\netcoreapp2.2\test.deps.json
+C:\Users\masahi\Documents\GitKraken\GitKrakenTestRepo\test\bin\Debug\netcoreapp2.2\test.runtimeconfig.json
+C:\Users\masahi\Documents\GitKraken\GitKrakenTestRepo\test\bin\Debug\netcoreapp2.2\test.runtimeconfig.dev.json
+c:\Users\masahi\Documents\GitKraken\GitKrakenTestRepo\test\bin\Debug\netcoreapp2.2\test.dll
+c:\Users\masahi\Documents\GitKraken\GitKrakenTestRepo\test\bin\Debug\netcoreapp2.2\test.pdb
+c:\Users\masahi\Documents\GitKraken\GitKrakenTestRepo\test\obj\Debug\netcoreapp2.2\test.csprojAssemblyReference.cache
+c:\Users\masahi\Documents\GitKraken\GitKrakenTestRepo\test\obj\Debug\netcoreapp2.2\test.csproj.CoreCompileInputs.cache
+c:\Users\masahi\Documents\GitKraken\GitKrakenTestRepo\test\obj\Debug\netcoreapp2.2\test.AssemblyInfoInputs.cache
+c:\Users\masahi\Documents\GitKraken\GitKrakenTestRepo\test\obj\Debug\netcoreapp2.2\test.AssemblyInfo.cs
+c:\Users\masahi\Documents\GitKraken\GitKrakenTestRepo\test\obj\Debug\netcoreapp2.2\test.dll
+c:\Users\masahi\Documents\GitKraken\GitKrakenTestRepo\test\obj\Debug\netcoreapp2.2\test.pdb
